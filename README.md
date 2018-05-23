@@ -23,4 +23,4 @@ usage:
 
 example:
 
-![example](https://github.com/sunwenli/make-rubbish-code/example.png)
+[![Screenshot](https://raw.githubusercontent.com/sunwenli/make-rubbish-code/master/example.png)](https://github.com/sunwenli/make-rubbish-code/)
